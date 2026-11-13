@@ -12,9 +12,8 @@ no input of any kind. Python 3 stdlib only.
 import os
 
 JOKE = (
-    "I asked my AI coding agent to fix one line. It fixed it, then "
-    "kept going — now the bug is the only original "
-    "code left."
+    "I asked my AI coding agent to fix one line. It fixed it, "
+    "then kept going \u2014 now the bug is the only original code left."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
